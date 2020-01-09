@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0819a0cd-e0e5-42b8-9e5b-073fc1c44ba1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="水果仓库管理系统" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="水果仓库管理系统" type="feb32156:DbDataSourceImpl" />
+        <item name="水果仓库管理系统: database" type="ccb7ac2a:MsImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="水果仓库管理系统" type="feb32156:DbDataSourceImpl" />
+        <item name="水果仓库管理系统: database" type="ccb7ac2a:MsImplModel$Database" />
+        <item name="dbo: schema" type="2865ee2e:MsImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="水果仓库管理系统" type="feb32156:DbDataSourceImpl" />
+        <item name="水果仓库管理系统: database" type="ccb7ac2a:MsImplModel$Database" />
+        <item name="dbo: schema" type="2865ee2e:MsImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="水果仓库管理系统" type="feb32156:DbDataSourceImpl" />
+        <item name="水果仓库管理系统: database" type="ccb7ac2a:MsImplModel$Database" />
+        <item name="dbo: schema" type="2865ee2e:MsImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="List: table" type="63ab2ba1:MsImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Vz7ah6fdTl3SgwjQ8eOcbCR2u7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlserver" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="GUUI" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ChoseUser">
+    <configuration name="ChoseUser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GUI.ChoseUser" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GUI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KeeperOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Keeper.KeeperOperation" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Keeper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KeeperRegister" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Keeper.KeeperRegister" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Keeper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServicePersonLogon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ServicePerson.ServicePersonLogon" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ServicePerson.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServicePersonOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ServicePerson.ServicePersonOperation" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ServicePerson.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ChoseUser" />
+        <item itemvalue="Application.KeeperRegister" />
+        <item itemvalue="Application.KeeperOperation" />
+        <item itemvalue="Application.ServicePersonOperation" />
+        <item itemvalue="Application.ServicePersonLogon" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0819a0cd-e0e5-42b8-9e5b-073fc1c44ba1" name="Default Changelist" comment="" />
+      <created>1578244135150</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578244135150</updated>
+      <workItem from="1578244138391" duration="168000" />
+      <workItem from="1578244322730" duration="1084000" />
+      <workItem from="1578245435738" duration="1078000" />
+      <workItem from="1578273576992" duration="19625000" />
+      <workItem from="1578308811285" duration="8624000" />
+      <workItem from="1578318026574" duration="7525000" />
+      <workItem from="1578355579169" duration="11243000" />
+      <workItem from="1578375269864" duration="31905000" />
+      <workItem from="1578442142691" duration="29146000" />
+      <workItem from="1578474268204" duration="29462000" />
+      <workItem from="1578528274113" duration="666000" />
+      <workItem from="1578528962347" duration="18998000" />
+      <workItem from="1578581181085" duration="2039000" />
+      <workItem from="1578584181469" duration="833000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578296539666">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1578296539666" />
+    <state x="574" y="142" key="#com.intellij.ide.util.MemberChooser" timestamp="1578489225403">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="574" y="142" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1578489225403" />
+    <state x="452" y="358" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1578529130787">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="452" y="358" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.864@0.0.1536.864" timestamp="1578529130787" />
+    <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578452988203">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1578452988203" />
+    <state x="549" y="174" key="FileChooserDialogImpl" timestamp="1578585916814">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="174" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1578585916814" />
+    <state width="1493" height="238" key="GridCell.Tab.0.bottom" timestamp="1578550637989">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="238" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1578550637989" />
+    <state width="1493" height="238" key="GridCell.Tab.0.center" timestamp="1578550637989">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="238" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1578550637989" />
+    <state width="1493" height="238" key="GridCell.Tab.0.left" timestamp="1578550637987">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="238" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1578550637987" />
+    <state width="1493" height="238" key="GridCell.Tab.0.right" timestamp="1578550637989">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="238" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1578550637989" />
+    <state width="1493" height="277" key="GridCell.Tab.1.bottom" timestamp="1578550637985">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1578550637985" />
+    <state width="1493" height="277" key="GridCell.Tab.1.center" timestamp="1578550637985">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1578550637985" />
+    <state width="1493" height="277" key="GridCell.Tab.1.left" timestamp="1578550637985">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1578550637985" />
+    <state width="1493" height="277" key="GridCell.Tab.1.right" timestamp="1578550637985">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1578550637985" />
+    <state x="249" y="7" key="SettingsEditor" timestamp="1578585909691">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="249" y="7" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1578585909691" />
+    <state x="454" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1578584181871">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="454" y="257" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1578584181871" />
+    <state x="511" y="60" key="refactoring.ChangeSignatureDialog" timestamp="1578366445377">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="511" y="60" key="refactoring.ChangeSignatureDialog/0.0.1536.864@0.0.1536.864" timestamp="1578366445377" />
+    <state x="26" y="198" key="run.anything.popup" timestamp="1578465965580">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="26" y="198" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1578465965580" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1578535249813">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1578535249813" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/untitled$KeeperRegister.ic" NAME="KeeperRegister Coverage Results" MODIFIED="1578367058667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Keeper.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/untitled$ShopperOperation.ic" NAME="ShopperOperation Coverage Results" MODIFIED="1578506314611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Shopper.*</FILTER>
+    </SUITE>
+  </component>
+</project>
