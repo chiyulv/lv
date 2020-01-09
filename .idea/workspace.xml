@@ -71,6 +71,7 @@
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="sqlserver" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -219,6 +220,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1578452988203" />
+    <state x="300" y="26" key="CommitChangelistDialog2" timestamp="1578586074625">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="300" y="26" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1578586074625" />
     <state x="549" y="174" key="FileChooserDialogImpl" timestamp="1578585916814">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
